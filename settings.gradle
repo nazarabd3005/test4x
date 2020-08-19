@@ -1,0 +1,4 @@
+include ':security'
+include ':core'
+include ':app'
+rootProject.name = "Test4X"
