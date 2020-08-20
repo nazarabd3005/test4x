@@ -4,6 +4,9 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
 apply plugin: 'dagger.hilt.android.plugin'
 
+hilt {
+    enableTransformForLocalTests = true
+}
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
@@ -20,6 +23,8 @@ android {
 
         testInstrumentationRunner "com.nazar.test4x.TestRunner"
     }
+
+
 
     buildTypes {
         release {
