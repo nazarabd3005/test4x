@@ -10,5 +10,5 @@ using some of the best practices in Android Development. Including:
  * Navigation
  
  module setup
- <img align="left" src="https://miro.medium.com/max/591/1*xtYq8DXo_I2RQWE50JlyvA.png" width="500">
+ <img  src="https://miro.medium.com/max/591/1*xtYq8DXo_I2RQWE50JlyvA.png" width="500">
  
