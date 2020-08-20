@@ -9,6 +9,6 @@ using some of the best practices in Android Development. Including:
  * Room
  * Navigation
  
- 
- <img align="right" src="https://miro.medium.com/max/591/1*xtYq8DXo_I2RQWE50JlyvA.png" width="200">
+ module setup
+ <img align="left" src="https://miro.medium.com/max/591/1*xtYq8DXo_I2RQWE50JlyvA.png" width="500">
  
